@@ -1,5 +1,13 @@
 # Mixtape — Bug Hunt Submission
 
+## Commit history
+
+`git log --oneline` on `bugfix/mixtape`, showing one separate `fix:` commit
+per bug (#1, #4, #5) on top of the two commits inherited from the forked
+starter repo:
+
+![git log --oneline output showing three fix commits on bugfix/mixtape](gitlog.png)
+
 ## AI usage
 
 I used Claude throughout this project, mostly for codebase orientation and
